@@ -1,0 +1,140 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <item type="color" name="common_signin_btn_dark_text_default">@color/white</item>
+    <item type="color" name="common_signin_btn_dark_text_pressed">@color/white</item>
+    <color name="common_signin_btn_dark_text_disabled">#ffaaaaaa</color>
+    <item type="color" name="common_signin_btn_dark_text_focused">@color/white</item>
+    <item type="color" name="common_signin_btn_light_text_default">@color/white</item>
+    <item type="color" name="common_signin_btn_light_text_pressed">@color/white</item>
+    <color name="common_signin_btn_light_text_disabled">#ffaaaaaa</color>
+    <item type="color" name="common_signin_btn_light_text_focused">@color/white</item>
+    <color name="common_signin_btn_default_background">#ff000000</color>
+    <color name="common_action_bar_splitter">#ffd2d2d2</color>
+    <color name="white">#ffffffff</color>
+    <color name="circle_background">#ff9f9f9f</color>
+    <item type="color" name="line_background">@*android:color/holo_blue_light</item>
+    <item type="color" name="ampm_text_color">@color/white</item>
+    <item type="color" name="done_text_color_normal">@color/white</item>
+    <color name="done_text_color_disabled">#ffcccccc</color>
+    <item type="color" name="numbers_text_color">@color/white</item>
+    <color name="transparent_black">#7f000000</color>
+    <item type="color" name="blue">@*android:color/holo_blue_light</item>
+    <color name="darker_blue">#ff0099cc</color>
+    <item type="color" name="date_picker_text_normal">@color/white</item>
+    <color name="calendar_header">#ff000000</color>
+    <color name="date_picker_view_animator">#ff000000</color>
+    <item type="color" name="calendar_selected_date_text">@color/white</item>
+    <color name="pressed">#330066ff</color>
+    <item type="color" name="selection">@*android:color/holo_blue_light</item>
+    <color name="today_highlight_color">#0033b5e5</color>
+    <color name="background_color">#ff000000</color>
+    <color name="event_background">#ff000000</color>
+    <item type="color" name="panel_text_foreground">@color/white</item>
+    <color name="calendar_event_text_color">#ffffffff</color>
+    <color name="calendar_owner_text_color">#ffcfcfcf</color>
+    <item type="color" name="calendar_date_range_color">@*android:color/holo_blue_light</item>
+    <item type="color" name="week_saturday">@*android:color/holo_blue_light</item>
+    <item type="color" name="week_sunday">@*android:color/holo_blue_light</item>
+    <color name="calendar_future_bg_color">#ff000000</color>
+    <item type="color" name="calendar_hour_label">@*android:color/holo_blue_light</item>
+    <item type="color" name="calendar_ampm_label">@*android:color/holo_blue_light</item>
+    <color name="calendar_hour_background">#ff000000</color>
+    <item type="color" name="calendar_date_banner_background">@*android:color/holo_blue_light</item>
+    <item type="color" name="calendar_date_banner_text_color">@color/white</item>
+    <item type="color" name="calendar_grid_area_selected">@*android:color/holo_blue_light</item>
+    <item type="color" name="calendar_grid_line_inner_horizontal_color">@*android:color/holo_blue_light</item>
+    <item type="color" name="calendar_grid_line_inner_vertical_color">@*android:color/holo_blue_light</item>
+    <item type="color" name="calendar_grid_line_highlight_color">@*android:color/holo_blue_light</item>
+    <color name="mini_month_bg_color">#ff000000</color>
+    <item type="color" name="mini_month_today_outline_color">@color/white</item>
+    <item type="color" name="month_day_number">@color/white</item>
+    <item type="color" name="month_mini_day_number">@color/white</item>
+    <color name="month_day_number_other">#ffcccccc</color>
+    <item type="color" name="month_week_num_color">@color/white</item>
+    <item type="color" name="month_day_names_color">@color/white</item>
+    <item type="color" name="month_today_number">@color/white</item>
+    <item type="color" name="month_event_color">@color/white</item>
+    <item type="color" name="month_event_extra_color">@color/white</item>
+    <color name="month_event_other_color">#ff666666</color>
+    <color name="month_event_extra_other_color">#4c999999</color>
+    <item type="color" name="month_saturday">@*android:color/holo_blue_light</item>
+    <item type="color" name="month_sunday">@*android:color/holo_blue_light</item>
+    <item type="color" name="month_grid_lines">@*android:color/holo_blue_light</item>
+    <color name="month_other_month_day_number">#ff777777</color>
+    <color name="month_other_bgcolor">#ff000000</color>
+    <color name="month_selected_week_bgcolor">#ff000000</color>
+    <item type="color" name="month_today_bgcolor">@*android:color/holo_blue_light</item>
+    <color name="month_bgcolor">#ff000000</color>
+    <item type="color" name="month_dna_conflict_time_color">@color/white</item>
+    <item type="color" name="event_center">@*android:color/holo_blue_light</item>
+    <item type="color" name="edit_event_separator">@*android:color/holo_blue_light</item>
+    <item type="color" name="calendar_visible">@color/white</item>
+    <color name="calendar_hidden">#ff808080</color>
+    <item type="color" name="calendar_secondary_visible">@color/white</item>
+    <color name="calendar_secondary_hidden">#ff808080</color>
+    <color name="agenda_item_not_selected">#ff000000</color>
+    <color name="agenda_item_declined_color">#ff333333</color>
+    <item type="color" name="agenda_item_standard_color">@color/white</item>
+    <color name="agenda_day_bar_background_color">#ff000000</color>
+    <color name="agenda_past_days_bar_background_color">#ff000000</color>
+    <item type="color" name="agenda_past_present_separator_color">@*android:color/holo_blue_light</item>
+    <color name="agenda_general_background_color">#ff000000</color>
+    <item type="color" name="agenda_day_item_text_color">@*android:color/holo_blue_light</item>
+    <item type="color" name="agenda_item_where_text_color">@color/white</item>
+    <color name="agenda_item_where_declined_text_color">#ff666666</color>
+    <item type="color" name="calendar_view_switch_menu_text_color">@color/white</item>
+    <item type="color" name="calendar_view_switch_menu_text_color_light">@color/white</item>
+    <item type="color" name="agenda_list_separator_color">@color/white</item>
+    <color name="agenda_selected_background_color">#ff555555</color>
+    <item type="color" name="agenda_selected_text_color">@color/white</item>
+    <item type="color" name="new_event_hint_text_color">@color/white</item>
+    <item type="color" name="day_event_clicked_background_color">@*android:color/holo_blue_light</item>
+    <item type="color" name="day_clicked_background_color">@*android:color/holo_blue_light</item>
+    <color name="day_past_background_color">#ff222222</color>
+    <item type="color" name="event_info_headline_color">@color/white</item>
+    <color name="event_info_headline_transparent_color">#b3ffffff</color>
+    <item type="color" name="event_info_headline_link_color">@*android:color/holo_blue_light</item>
+    <item type="color" name="event_info_organizer_color">@color/white</item>
+    <item type="color" name="event_info_description_color">@color/white</item>
+    <item type="color" name="event_info_body_color">@color/white</item>
+    <item type="color" name="event_info_label_color">@color/white</item>
+    <color name="event_info_label_background_color">#ff000000</color>
+    <item type="color" name="create_event_date_color">@color/white</item>
+    <item type="color" name="create_event_more_details_color">@color/white</item>
+    <item type="color" name="create_event_divider_color">@color/white</item>
+    <color name="text_shadow_color">#4dffffff</color>
+    <item type="color" name="alert_event_title">@color/white</item>
+    <item type="color" name="alert_event_other">@color/white</item>
+    <color name="alert_past_event">#8f999999</color>
+    <item type="color" name="appwidget_row_in_progress">@*android:color/holo_blue_light</item>
+    <item type="color" name="appwidget_date">@color/white</item>
+    <item type="color" name="appwidget_week">@color/white</item>
+    <item type="color" name="appwidget_month">@color/white</item>
+    <color name="appwidget_item_declined_color">#ff333333</color>
+    <item type="color" name="appwidget_item_standard_color">@color/white</item>
+    <item type="color" name="appwidget_item_allday_color">@color/white</item>
+    <item type="color" name="appwidget_title">@color/white</item>
+    <item type="color" name="appwidget_when">@color/white</item>
+    <item type="color" name="appwidget_where">@color/white</item>
+    <item type="color" name="appwidget_no_events">@color/white</item>
+    <color name="recurrence_picker_background">#ff000000</color>
+    <item type="color" name="recurrence_bubble_text_normal">@color/white</item>
+    <item type="color" name="team_blackout_apps">@color/white</item>
+    <color name="black">#ff000000</color>
+    <item type="color" name="edit_event_calendar_textview">@color/white</item>
+    <item type="color" name="edit_event_calendar_textview_secondary">@color/white</item>
+    <item type="color" name="button_text_reminder_add">@color/white</item>
+    <item type="color" name="event_info_dialog_email_attendees_button">@color/white</item>
+    <item type="color" name="event_info_dialog_launch_custom_app_button">@color/white</item>
+    <item type="color" name="event_info_dialog_reminder_add">@color/white</item>
+    <item type="color" name="event_info_email_attendees_button">@color/white</item>
+    <item type="color" name="event_info_launch_custom_app_button">@color/white</item>
+    <item type="color" name="event_info_reminder_add">@color/white</item>
+    <item type="color" name="calendar_name">@color/white</item>
+    <item type="color" name="account_name">@color/white</item>
+    <item type="color" name="agenda_header_footer_text">@color/white</item>
+    <item type="color" name="more_item_text">@color/white</item>
+    <item type="color" name="notification_title">@color/white</item>
+    <item type="color" name="notification_text">@color/white</item>
+    <color name="calendars_item">#ffcccccc</color>
+</resources>
